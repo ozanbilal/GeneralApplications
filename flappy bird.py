@@ -20,7 +20,7 @@ SKY_BLUE = (135, 206, 235)
 
 # Bird settings
 GRAVITY = 0.25
-BIRD_FLAP_POWER = 8
+BIRD_FLAP_POWER = 7
 GAME_SPEED = 5
 
 # Setup the screen
